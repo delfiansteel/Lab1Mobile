@@ -12,6 +12,4 @@
 
 ![Latihan 2](img/latihan2.png)
 
-<p>Demikian penjelasan singkat mengenai kode yang diberikan.</p>
-
 # Terima Kasih!
